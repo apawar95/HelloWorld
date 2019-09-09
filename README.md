@@ -1,2 +1,2 @@
-# Hello World Project
+# Hello World Example
 
